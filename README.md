@@ -18,11 +18,11 @@ python checkin.py
 
 ### for use custom device id (not necessary) ليس ضروري
 
-![]
-(https://i.ibb.co/VTD5cCN/IMG-20201013-185831-184.jpg)
+![alt text](https://i.ibb.co/VTD5cCN/IMG-20201013-185831-184.jpg)
 
-   ![]
-(https://i.ibb.co/cJRvH4Q/IMG-20201013-185845-305.jpg)
+
+   ![alt text](https://i.ibb.co/cJRvH4Q/IMG-20201013-185845-305.jpg)
+
 
 #### بعد 
 بعدها حط deviceid في هذي الاداة
