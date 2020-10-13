@@ -4,13 +4,13 @@
 
 المتطلبات ل التثبيت 
 
-##for install 
+## for install 
 ```
 git clone https://github.com/kira-xc/CheckInAmino
 apt install python
 pip install Amino.py
 ```
-##for use
+## for use
 ```
 cd CheckInAmino
 python checkin.py
