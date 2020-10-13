@@ -15,3 +15,4 @@ pip install Amino.py
 cd CheckInAmino
 python checkin.py
 ```
+ 
