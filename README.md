@@ -18,14 +18,26 @@ python checkin.py
 
 ### for use custom device id (not necessary) ليس ضروري
 
+
+
+
+
+
+
 ![alt text](https://i.ibb.co/VTD5cCN/IMG-20201013-185831-184.jpg)
 
 
    ![alt text](https://i.ibb.co/cJRvH4Q/IMG-20201013-185845-305.jpg)
 
 
+
+
+
+
 #### بعد 
-بعدها حط deviceid في هذي الاداة
+بعدها حط
+deviceid
+في هذي الاداة
 ```
 bash deviceid.sh
 ```
