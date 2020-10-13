@@ -15,7 +15,7 @@ pip install Amino.py
 cd CheckInAmino
 python checkin.py
 ```
-
+![alt text] (https://i.ibb.co/CHX8wrN/Screenshot-20201013-192528.png)
 ### for use custom device id (not necessary) ليس ضروري
 
 
