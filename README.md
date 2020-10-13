@@ -11,6 +11,7 @@ cd CheckInAmino
 apt install python
 pip install Amino.py
 ```
-##for use
-
+#for use
+```
 python checkin.py
+```
