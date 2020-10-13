@@ -4,12 +4,11 @@
 
 المتطلبات ل التثبيت 
 
-#for install 
-
+####for install 
+```
 apt install python
-
 pip install Amino.py
-
-#for use
+```
+####for use
 
 python checkin.py
