@@ -21,11 +21,6 @@ python checkin.py
 ### for use custom device id (not necessary) ليس ضروري
 
 
-
-
-
-
-
 ![alt text](https://i.ibb.co/VTD5cCN/IMG-20201013-185831-184.jpg)
 
 
@@ -38,7 +33,11 @@ python checkin.py
 
 #### بعد 
 بعدها حط
+
+   
 deviceid
+
+   
 في هذي الاداة
 ```
 bash deviceid.sh
@@ -55,7 +54,9 @@ python deviceid.py
 rm -f device.json
 ```
 او احذف ملف اسمه 
+   
 device.json 
 
+   
 تلقاه في نفس المكان الي تشغل فيه سكريبت 
 
