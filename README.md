@@ -43,9 +43,19 @@ deviceid
 ```
 bash deviceid.sh
 ```
+او (or) 
+
+```
+python deviceid.py
+```
 
 في حال صار مشكل سوي 
 
 ```
 rm -f device.json
 ```
+او احذف ملف اسمه 
+device.json 
+
+تلقاه في نفسالمكان الي تشغل فيه سكريبت 
+
